@@ -1,0 +1,34 @@
+
+.imgSlider {
+    height: 500px;
+}
+.navbar {
+    padding-top: 50px;
+    
+}
+.aboutus{
+    background-color: #f2f2f2;
+}
+.split{
+    border:bobe;
+    border-top:3px solid #343a40;
+}
+.iwhite{
+    color:solid #343a40;
+    position:relative;
+    top:-60px;
+    font-size:30px;
+   // border:10px solid white;
+    background-color:white;
+}
+.igrey{
+    color:solid #343a40;
+    position:relative;
+   // top:-65px;
+    font-size:40px;
+    border:10px solid #f2f2f2;
+    background-color:#f2f2f2;
+}
+.cardimg>img:hover{
+    opacity:0.8;
+}
